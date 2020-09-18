@@ -1,0 +1,25 @@
+ 
+		b{
+			font-family: TAHOMA;
+			font-color: #42c8f5;
+		}.layout{
+                }
+                    .slip{
+                        border:1px solid lightgray;
+                        width:900px;
+                        height:350px;
+                        margin: 0 auto;
+                        border-radius: 5px;
+                    }
+			
+		 
+		*{font-family: tahoma}
+		
+		img{margin-left: 100px;height: 100px;margin:0 auto}
+		 h1,h2{font-family: tahoma}
+		h3{margin-top:-20px;}
+		.head{margin-right: 300px;}
+		.foot{width: 700px; border: 1px dotted black; }
+		button{height: 50px;width: 190px; }
+		input{text-align: center;font-size: 16px;border-buttom:1px solid black;border-top:none;border-left:none;text-transform: uppercase}
+		
